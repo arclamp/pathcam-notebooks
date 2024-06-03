@@ -1,0 +1,14 @@
+jupyter
+matplotlib
+numpy
+scipy
+
+pyaml
+Pillow
+
+large_image[common]
+rawpy
+imageio
+rasterio
+shapely
+tifftools
