@@ -6,7 +6,7 @@ scipy
 pyaml
 Pillow
 
-large_image[common]
+large_image[common,vips,converter]
 rawpy
 imageio
 rasterio
